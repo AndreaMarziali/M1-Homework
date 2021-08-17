@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+h1 {
+    font-family: Open Sans;
+}
+
+p {
+    font-family: Nunito;
+    text-align: center;
+}
+
+td {
+    font-family: Nunito;
+}
+
+h4 {
+    font-family: Nunito;
+}
+
+

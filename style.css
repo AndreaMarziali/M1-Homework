@@ -20,6 +20,8 @@ h4 {
 
 footer {
     background-color: black;
+    margin-right: -30%;
+    margin-left: -40%;
 }
 
 h3 {
@@ -28,3 +30,10 @@ h3 {
     text-align: center;
 }
 
+h2 {
+    font-family: Open Sans;
+}
+
+li {
+    font-family: Nunito;
+}
